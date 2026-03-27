@@ -1,0 +1,25 @@
+# Dicas para Engenharia de Prompt
+- Estrutura P.R.O.M.P.T.: Panorama, Resultado, Objetivo, Modelo, Processos, Transformar
+- Desenvolvimento de Casos de Teste: Criação de testes para validação e melhoria contínua dos prompts
+- Uso de Markdown: Formatação de texto para melhor legibilidade pela IA, incluindo títulos, listas e negrito
+- Tags XML: Uso de estruturas como `` para organizar instruções e documentos longos, visando evitar que a IA se perca 
+- Prompt do Sistema: Configuração de diretrizes de comportamento geral para a IA
+- Técnicas Avançadas de Prompting:
+    - Zero Shot: Fazer perguntas diretas sem fornecer exemplos
+    - Estímulo de Prompt Direcional: Dar orientações específicas para direcionar o foco da resposta
+    - Few Shot: Fornecer exemplos positivos para guiar a IA sobre o resultado esperado
+    - Cadeia de Pensamento (Chain of Thought): Pedir para a IA raciocinar passo a passo
+    - Cadeia de Pensamento Contrastiva: Raciocínio comparando opções
+    - Cadeia de Pensamento com Zero Shot: Raciocínio lógico sem exemplos prévios
+    - Consistência Própria: Técnica para verificar a precisão da IA
+    - Árvore de Pensamento: Exploração de múltiplos caminhos de raciocínio
+    - Esqueleto de Pensamento: Planejar a estrutura da resposta antes de gerar o conteúdo
+    - Geração de Conhecimento: Instruir a IA a gerar fatos antes de responder
+    - Prompt Maiêutico: Técnica de perguntas socráticas
+    - Justifique Sua Resposta: Pedir a base lógica para a resposta dada
+    - Geração Argumentada de Recuperação (RAG): Consulta dinâmica a bases de conhecimento externas
+    - Linguagem Programática Assistida: Uso de variáveis e estruturas de programação para melhorar a precisão
+    - ReAct (Reason + Act): Ciclo de raciocínio e ação para agentes sofisticados
+- Como Evitar Alucinações: Técnicas para garantir precisão factual, incluindo instruir a IA a dizer que não sabe a resposta quando apropriado
+- Exemplos Práticos: Demonstração de agentes customizados, links clicáveis e uso de imagens
+- Ferramentas: Apresentação de ferramentas de engenharia de prompt, como a da Antropic

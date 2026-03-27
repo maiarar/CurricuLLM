@@ -1,0 +1,52 @@
+{
+  "titulo": "Senior QA Engineer",
+  "empresa": "Tech Company Brasil",
+  "localizacao": "São Paulo, SP (Híbrido)",
+  "tipo_contrato": "CLT - Tempo Integral",
+  "salario": "R$ 12.000 - R$ 18.000",
+  "descricao": "Procuramos um Senior QA Engineer experiente para liderança de processos de garantia de qualidade em uma suite de produtos críticos. Você trabalhará com APIs, testes automatizados e garantirá a qualidade de software em um ambiente ágil e colaborativo.",
+  "responsabilidades": [
+    "Desenhar e implementar estratégias de teste automatizado para aplicações backend em Python e Java",
+    "Liderar a automação de testes de API usando ferramentas modernas (Pytest, REST Assured)",
+    "Mentorear QAs juniores e estabelecer boas práticas de teste",
+    "Colaborar com desenvolvimento para implementar observability e testes desde o início",
+    "Reduzir tempo de ciclo de testes em 40%+ através de automação",
+    "Participar de planejamento ágil (sprints) e refinamento de requisitos"
+  ],
+  "requisitos": [
+    "8+ anos de experiência em QA, com 5+ em automação de testes",
+    "Experiência sólida com Python (pytest, behave) ou Java (JUnit, Selenium)",
+    "Conhecimento de APIs REST e testes de integração",
+    "Experiência com CI/CD (Jenkins, GitHub Actions, GitLab CI)",
+    "Profundidade em testes de performance e carga",
+    "Excelente comunicação e pensamento crítico"
+  ],
+  "diferenciais": [
+    "Experiência com Kubernetes ou Docker",
+    "Conhecimento de GraphQL",
+    "Experiência em fintech ou empresas de alta criticidade",
+    "Certificações em QA (ISTQB, etc)",
+    "Contribuidor em projetos open-source de automação"
+  ],
+  "tecnologias": [
+    "Python",
+    "Pytest",
+    "Selenium",
+    "REST APIs",
+    "Jenkins",
+    "Docker",
+    "Grafana",
+    "Load Testing",
+    "Agile/Scrum",
+    "Git"
+  ],
+  "beneficios": [
+    "Salário competitivo com PLR",
+    "Vale refeição e transporte",
+    "Health insurance premium",
+    "4 dias de trabalho remoto (flexível)",
+    "Programa de desenvolvimento profissional",
+    "Bônus por performance",
+    "Ambiente inclusivo e diverso"
+  ]
+}
