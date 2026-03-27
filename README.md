@@ -33,7 +33,7 @@ pip install -e .
 - Se estiver em outro formato (Word, PDF, etc), use um conversor online para HTML, ou copie e cole o conteúdo em um editor de texto e salve como HTML. O importante é que o arquivo final seja `profile.html` e esteja na mesma pasta do script.
 - O projeto já vem com um exemplo de `profile.html` para você testar, mas o ideal é usar seu próprio CV para obter um resultado personalizado.
 
-### 2. Converta a descrição da vaga para um arquivo JSON
+### 3. Converta a descrição da vaga para um arquivo JSON
 > indico que faça isso para obter o melhor resultado, mas o script também funciona sem personalização (gerando um CV genérico seguindo as diretrizes dos arquivos .md que estão aqui na pasta)
 ```bash
 # Copie o exemplo
@@ -41,7 +41,7 @@ cp job_description.example.json job_description.json
 ```
 Depois disso, abra o arquivo `job_description.json` com seu editor de texto preferido, e preencha com os dados reais da vaga que deseja se candidatar. Quanto mais detalhes você fornecer, melhor será a personalização do CV gerado.
 
-### 3. Gere o CV personalizado
+### 4. Gere o CV personalizado
 ```bash
 python curriculum.py job_description.json
 ```
@@ -238,7 +238,6 @@ pip install python-dotenv
 
 ## 📚 Referências
 
-- [Google Generative AI API](https://ai.google.dev/)
 - [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ---
