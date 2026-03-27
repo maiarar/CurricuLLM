@@ -238,7 +238,6 @@ pip install python-dotenv
 
 ## 📚 Referências
 
-- [Google Generative AI API](https://ai.google.dev/)
 - [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ---
